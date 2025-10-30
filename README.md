@@ -77,11 +77,3 @@ This project is provided under the MIT License. See `LICENSE` for details (if yo
 - Inspired by the Scrimba front-end path exercise referenced in the project metadata.
 
 ---
-
-If you'd like, I can also:
-
-- add a small `LICENSE` file (MIT) and commit it,
-- add a short `CONTRIBUTING.md` template,
-- or wire up a tiny test (Jest / vitest) to validate that `data.js` exports the expected structure.
-
-Let me know which (if any) extras you want and I'll add them.
